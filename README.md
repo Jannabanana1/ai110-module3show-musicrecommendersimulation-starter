@@ -29,6 +29,14 @@ Some prompts to answer:
 
 You can include a simple diagram or bullet list if helpful.
 
+Answers: 
+- Song: Each Song stores its ID, title, artist, genre, mood, energy, tempo, danceability, valence, and acousticness.
+
+- UserProfile: The UserProfile stores the user's preferred genres, moods, energy level, tempo, and danceability.
+
+- Recommender: The Recommender compares each song's features with the user's preferences and calculates a score. Songs that more closely match the user's preferences receive higher scores.
+
+- Choosing recommendations: The system sorts songs from highest to lowest score and recommends the top matches to the user.
 ---
 
 ## Getting Started
